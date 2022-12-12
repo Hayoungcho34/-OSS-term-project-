@@ -1,2 +1,3 @@
-# -OSS-term-project-
-OSS final term project
+git init
+git add README.md
+git commit -m "
